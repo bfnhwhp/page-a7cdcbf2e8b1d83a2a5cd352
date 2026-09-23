@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5ad1b3817c110843e495ce67",
+  "owner": "bfnhwhp",
+  "repo": "page-a7cdcbf2e8b1d83a2a5cd352",
+  "title": "502加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7cdcbf2e8b1d83a2a5cd352",
+      "a": "502加速器",
+      "b": "2027最新官网",
+      "entity": "502加速器",
+      "brand": "502加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d66a31984d04c54a10aac4234c5385a2aa3e9004601fde6a8e409d57b2860625",
+      "content": {
+        "primary_entity": "502加速器",
+        "keyword1": "502加速器",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器选择对应订阅客户端。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再依照客户端文档导入订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再配置订阅",
+          "AI_DESCRIPTION": "，专注海外网络加速，提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付有优惠。用户可按手机、电脑或路由器选择订阅客户端，并按步骤完成配置，不同设备的使用体验取决于本地网络环境。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路三个角度挑选适合自己的方案。",
+          "AI_FEATURES_TITLE": "为什么选择 502加速器",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线优化游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，适合多设备协作团队。",
+          "AI_FEATURE_TITLE_1": "按流量档匹配",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TITLE_3": "按周期灵活订阅",
+          "AI_GUIDE_INTRO": "先确定使用设备与流量需求，再选套餐并完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用 502加速器",
+          "AI_HERO_INTRO": "502加速器面向有海外网络加速需求的用户，提供基础版、旗舰版与团队版三档套餐，覆盖不同流量与设备数量。按客户端文档配置订阅后，可在手机、电脑等设备上使用，具体体验与本地网络环境相关。",
+          "AI_HERO_SUBTITLE": "海外网络加速，按需选择套餐",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量可选",
+          "AI_HIGHLIGHT_2": "3 台至 20 台多设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付享更优价格",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版与团队版的流量、设备数和线路差异，再决定订阅周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "评估日常流量消耗与需要同时在线的设备数量，确定适合的套餐档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量上限、设备数量与线路特点，确认符合使用场景。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档，将订阅信息导入到手机、电脑或路由器中。",
+          "AI_STEP_TITLE_1": "明确使用需求",
+          "AI_STEP_TITLE_2": "确认套餐适配",
+          "AI_STEP_TITLE_3": "配置订阅客户端",
+          "AI_VISUAL_TITLE": "502加速器套餐概览",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。建议按常用设备数量选择，超出后新增设备需要升级到更高档位。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，年付平均每月更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_3": "在对应设备的客户端中新建订阅，粘贴购买后获得的订阅链接并保存。不同客户端菜单名称略有差异，参考客户端内置的导入说明操作即可。",
+          "AI_FAQ_ANSWER_4": "旗舰版配置 IPLC 专线并针对游戏场景优化延迟，团队版提供 VIP 专属高带宽节点。基础版为普通线路节点池，适合网页浏览和基础流媒体。",
+          "AI_FAQ_ANSWER_5": "订阅周期结束前续费即可继续使用，套餐支持从基础版升级到旗舰版或团队版。流量超出当月额度后，可以等下月重置或直接升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_3": "订阅导入客户端后连不上怎么办？",
+          "AI_FAQ_QUESTION_4": "不同版本线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "套餐到期或流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见使用问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "naiyoujichang.com",
+    "host": "naiyoujichang.com"
+  },
+  "file_hashes": {
+    "index.html": "607fa9073b269657e795ae0cc9a66d1098c045709ab844661bdb1191d4e8d859",
+    "sitemap.xml": "eedaec7a67adddc06e8de9e3d34ce8dbddceac60bae32ac65ffe64ce096feac1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dbb31a6e89aa408ad72746c14276172eb952e3b7fec787f45e3fc42c7a8b384a",
+    "robots.txt": "3e5432da0c83ac63458c5c4e1ba3fab5125687695ccaf04dc38984ced333a48f",
+    "e970861387ab0ebc3a49a774453d17ef.txt": "19b2d3ed449fbfbf3ea5d875379d43a47b26fc4c7c5657969de0c82cad1e05b6"
+  },
+  "revision": "67013f76d5054a4819fd337a8038c23528ec3062cf0756f32ab3b6bc4fbfbe6e"
+}
